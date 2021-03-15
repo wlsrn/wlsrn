@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wlsrn
+- 👋 Hi, I’m Kwon_jingu
 - 👀 I’m interested in web
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
