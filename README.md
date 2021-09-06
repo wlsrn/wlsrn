@@ -1,4 +1,4 @@
-### 억까 멈춰
+### 보지마 
 
 <!---
 wlsrn/wlsrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
